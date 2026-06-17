@@ -1,0 +1,8 @@
+int edad;
+float nota;
+
+123abc
+45.
+@
+
+cout << "Hola";

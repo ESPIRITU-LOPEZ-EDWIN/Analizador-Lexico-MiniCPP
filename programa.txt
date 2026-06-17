@@ -1,0 +1,11 @@
+int edad;
+float sueldo;
+
+cin >> edad;
+
+if(edad >= 18){
+    cout << "Mayor";
+}
+else{
+    cout << "Menor";
+}

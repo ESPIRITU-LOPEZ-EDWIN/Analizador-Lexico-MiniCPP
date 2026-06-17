@@ -1,0 +1,25 @@
+int edad = 20;
+float promedio = 75;
+
+if(edad > 18)
+{
+    cout << edad;
+}
+else
+{
+    cin >> edad;
+}
+
+int @numero = 10;
+float precio# = 25;
+abc$ = 50;
+
+cout << "Hola";
+
+int 123edad = 30;
+variable& = 40;
+
+if(edad < 60)
+{
+    cout << promedio;
+}

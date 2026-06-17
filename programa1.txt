@@ -1,0 +1,17 @@
+int edad;
+float promedio;
+int nota;
+
+cin >> edad;
+cin >> nota;
+
+promedio = 75.5;
+
+if(edad >= 18)
+{
+    cout << "Mayor de edad";
+}
+else
+{
+    cout << "Menor de edad";
+}
