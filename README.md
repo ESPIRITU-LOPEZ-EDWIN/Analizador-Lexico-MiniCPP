@@ -4,7 +4,7 @@ Proyecto de la materia Compiladores.
 
 ## Autor
 
-Eddy Espiritu Lopez
+Edwin Espiritu Lopez
 
 ## Compilacion
 
