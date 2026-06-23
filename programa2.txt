@@ -1,8 +1,18 @@
-int edad;
-float nota;
+int a, b, c;
+float x;
 
-123abc
-45.
-@
+cin >> a;
+cin >> b; 
 
-cout << "Hola";
+c = 50 + 50;
+x = 57.4;
+
+if(x > 50.5)
+{
+    cout << "aprobado";
+}
+else 
+{
+    cout << c;
+    cout << "reprobado";
+}
