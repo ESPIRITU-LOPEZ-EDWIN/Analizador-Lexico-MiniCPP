@@ -2,7 +2,7 @@
  * ============================================================
  *  COMPILADOR MiniC++ – Lexico + Sintactico + Semantico
  *  AFD (switch-estado) + Descendente recursivo
- *  INF 3631 "A" – Diseno de Compiladores
+ *  INF 3631 "A" – Disenio de Compiladores
  * ============================================================
  *
  *  Entrada : programa2.txt  (codigo fuente MiniC++)
